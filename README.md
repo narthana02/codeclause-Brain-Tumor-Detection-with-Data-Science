@@ -1,5 +1,5 @@
 # codeclause-Brain-Tumor-Detection-with-Data-Science
-Certainly, let's break down the steps and instructions more explicitly:
+
 
 ### Step 1: Data Preparation
 
@@ -70,4 +70,4 @@ Certainly, let's break down the steps and instructions more explicitly:
 
 - Visualize the results of your model by plotting the original image along with the predicted class for inference.
 
-Make sure to replace paths, customize the model architecture, and adapt the code to your specific requirements. This breakdown provides a detailed summary of each step in the process of brain tumor detection with data science.
+
